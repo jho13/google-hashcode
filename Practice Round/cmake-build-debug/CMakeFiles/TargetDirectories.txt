@@ -1,3 +1,0 @@
-C:/Users/Richard Oh/Documents/Work/Computing Science/Hashcode/Practice Round/cmake-build-debug/CMakeFiles/Practice_Round.dir
-C:/Users/Richard Oh/Documents/Work/Computing Science/Hashcode/Practice Round/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Richard Oh/Documents/Work/Computing Science/Hashcode/Practice Round/cmake-build-debug/CMakeFiles/rebuild_cache.dir
