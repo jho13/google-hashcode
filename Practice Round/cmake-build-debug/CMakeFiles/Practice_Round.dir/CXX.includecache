@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Richard Oh/Documents/Work/Computing Science/Hashcode/Practice Round/main.cpp
+iostream
+-
+fstream
+-
+cstdlib
+-
+
